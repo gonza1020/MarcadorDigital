@@ -1,0 +1,25 @@
+{
+  "name": "marcadordigital",
+  "version": "1.0.0",
+  "description": "Marcador Digital para eventos deportivos",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonza1020/MarcadorDigital.git"
+  },
+  "author": "Gonzalo Zoloaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonza1020/MarcadorDigital/issues"
+  },
+  "homepage": "https://github.com/gonza1020/MarcadorDigital#readme",
+  "dependencies": {
+    "electron": "^18.2.0",
+    "electron-reload": "^2.0.0-alpha.1",
+    "knex": "^2.0.0"
+  }
+}
