@@ -1,3 +1,0 @@
-const {getConnection} = require("../database")
-
-
